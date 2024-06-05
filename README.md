@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/Ashutosh_Jarag](https://www.datascienceportfol.io/Ashutosh_Jarag)
+- 👨‍💻 All of my projects are available at [https://github.com/Ashutosh-Jarag)
 
 - 💬 Ask me about **Python, machine Learning**
 
