@@ -4,7 +4,7 @@
 
 🚀 **AI Engineer | Data Scientist | Data Engineer | Data Analyst | Web Developer**  
 🎓 **B.Tech in Computer Science (Data Science)** | Shivaji University, Kolhapur  
-💼 **Freelance Web Developer @ Vibe Coding**  
+💼 **Vibe Coding and Freelancing**  
 💡 Passionate about **Data Science, Machine Learning, Generative AI, NLP, Cloud, and No-Code AI tools**  
 
 ---
