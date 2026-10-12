@@ -1,155 +1,93 @@
-# 💫 About Me  
+# Hi, I'm Ashutosh Jarag 👋
 
-👋 Hi, I'm **Ashutosh Jarag**!  
+**AI/ML Engineer · Data Engineer** | PG-Diploma in Big Data Analytics (CDAC Pune) | B.Tech in Computer Science (Data Science)
 
-🚀 **AI Engineer | Data Scientist | Data Engineer | Data Analyst | Web Developer**  
-🎓 **B.Tech in Computer Science (Data Science)** | Shivaji University, Kolhapur  
-💼 **Vibe Coding and Freelancing @MEandAI**  
-💡 Passionate about **Data Science, Machine Learning, Generative AI, NLP, Cloud, and No-Code AI tools**  
+I build **LLM / RAG applications** and **production-style data pipelines**. I have 14 months of internship experience building GenAI apps, ETL workflows and backend services in Python, and I'm open to fresher roles in AI/ML and Data Engineering.
 
----
-
-## 🔥 What I Do  
-
-- 📈 **Data Science & Analytics:** Data Processing, Visualization, and Model Building using Python  
-- 🤖 **Machine Learning & AI:** Implementing ML/DL models and integrating LLMs for automation  
-- 🧠 **Generative AI (GenAI):** Building context-aware AI agents using LangChain, Gemini, and Hugging Face  
-- 💾 **Data Engineering:** ETL Pipelines, APIs, and Cloud Data Solutions  
-- 🌐 **Web Development:** Creating responsive and interactive websites using React, FastAPI, and TailwindCSS  
-- ⚙️ **Automation:** Integrating No-Code and Low-Code tools for workflow automation and intelligent systems  
-
-📍 *Always learning, building, and simplifying complex systems with AI.*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-jarag)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaragashutosh11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutoshjarag.vercel.app)
 
 ---
 
-## 🌐 Connect with Me  
+## 🔭 What I work on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-jarag)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashutosh-Jarag)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AshutoshJa49726)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jarag_ashutosh_jarag)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaragashutosh11@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutoshjarag.vercel.app)  
+- 🤖 **Generative AI:** RAG, semantic search, text-to-SQL, LLM document extraction, agents (LangChain, LangGraph, Gemini, Qdrant, ChromaDB, FastAPI)
+- 💾 **Data Engineering:** ETL/ELT, medallion architecture, data quality, dimensional modeling (PySpark, Databricks, Delta Lake, Snowflake, dbt, Airflow, Kafka, AWS)
+- 📈 **ML & Analytics:** NLP, classification, EDA, dashboards (scikit-learn, PyTorch, Pandas, Tableau, Power BI)
 
 ---
 
-# 🧠 Tech Stack  
+## 🚀 Featured Projects
 
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
----
-
-### 📊 Data Science & Analytics  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%230D96A0.svg?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [**ResearchAI**](https://github.com/Ashutosh-Jarag/ResearchAI) | AI research intelligence platform over 3.1M+ arXiv papers: classification, semantic recommendations, summarization and document Q&A | Python, NLP, ML, RAG, ChromaDB, Gemini, FastAPI |
+| [**Math Agent**](https://github.com/Ashutosh-Jarag/math_agent) | RAG-based math assistant giving step-by-step solutions, with web-search fallback, feedback-based retraining and guardrails | Python, FastAPI, Gemini, Qdrant, MCP |
+| [**Reliable Supply Chain Data Pipeline**](https://github.com/Ashutosh-Jarag/reliable-supply-chain-data-pipeline) | End-to-end medallion pipeline (Bronze/Silver/Gold) with deduplication, SCD Type 2, data quality checks and idempotent batch loads, feeding Tableau dashboards | PySpark, Kafka, AWS S3, Snowflake, dbt, Docker |
+| [**Sales Analytics Warehouse**](https://github.com/Ashutosh-Jarag/E-Commerce-Sales-Analytics) | Star-schema data warehouse with window-function SQL for KPIs, loaded into PostgreSQL by Airflow | PySpark, SQL, Databricks, Delta Lake, Airflow |
+| [**AutoLog**](https://github.com/Ashutosh-Jarag/AutoLog) | AI vehicle logging system: license plate detection, vehicle tracking, parking management and a real-time dashboard | Python, FastAPI, React, PostgreSQL |
+| [**Weather Data Pipeline**](https://github.com/Ashutosh-Jarag/Weather-Data-Pipeline) | Batch ETL pipeline from a REST API through PySpark into PostgreSQL | PySpark, REST API, PostgreSQL |
 
 ---
 
-### 🤖 AI & LLM Ecosystem  
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD43B.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-%230072C6.svg?style=for-the-badge&logo=google&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude-%23202020.svg?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-%23000000.svg?style=for-the-badge&logo=semanticweb&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-%23DD0031.svg?style=for-the-badge&logoColor=white)
-![VectorDBs](https://img.shields.io/badge/VectorDBs-%230092CC.svg?style=for-the-badge&logo=databricks&logoColor=white)
+## 💼 Experience
+
+**AI/ML Intern, Compserv Consultant Pvt Ltd** (Jan 2025 – Nov 2025)
+LLM-based handwritten bill extraction (cut manual effort by 70%), a RAG app, a text-to-SQL support chatbot, a secure file-tracking system with audit trails, and FastAPI backends.
+
+**Data Science Intern, Tvarit Solutions Pvt Ltd** (Jun 2024 – Aug 2024)
+Automated Python pipelines (cloud storage, PostgreSQL, files to reports) and EDA on industrial data.
 
 ---
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%23380080.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-%2300B8D9.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-%23C13584.svg?style=for-the-badge&logoColor=white)
+## 🎓 Education & Certifications
+
+- **PG-Diploma in Big Data Analytics**, CDAC Pune (Feb 2026 – Aug 2026)
+- **B.Tech in Computer Science (Data Science)**, Shivaji University, Kolhapur (2022 – 2025)
+- Cisco Data Analytics · Cisco Introduction to Data Science · Power BI · Advanced SQL
+- Winner, AI/ML TechSphere college tournament
 
 ---
 
-### ☁️ Cloud & Big Data Platforms  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-%2300BFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+## 🧠 Tech Stack
+
+**Languages & Databases**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+**Big Data, Cloud & DevOps**
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI, ML & Backend**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD43B?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-380080?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+
+**Analytics & BI**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
-### 🧰 DevOps & Version Control  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-### ⚙️ Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![FastMCP](https://img.shields.io/badge/FastMCP-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🧩 No-Code & Automation Tools  
-![n8n](https://img.shields.io/badge/n8n-%23F05A28.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-%23F26207.svg?style=for-the-badge&logo=replit&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VO](https://img.shields.io/badge/VO%20by%20Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Opal](https://img.shields.io/badge/Opal%20by%20Google-%230072C6.svg?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-### 📈 Business Intelligence & Visualization  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-### 💼 Soft Skills  
-- 🧩 Team Leadership  
-- 🧠 Problem Solving  
-- 💬 Communication  
-- 🔄 Adaptability  
-- 🤝 Collaboration  
-
----
-
-# 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=Ashutosh-Jarag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Ashutosh-Jarag&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Jarag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-✨ *"Empowering ideas with AI, automation, and data — one project at a time."*  
-**Proudly crafted with ❤️ by [Ashutosh Jarag](https://ashutoshjarag.vercel.app)**  
+📫 **Open to fresher roles:** AI/ML Engineer · LLM Engineer · Data Engineer · Big Data Engineer · Data Analyst
